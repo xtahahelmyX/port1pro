@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital@1&display=swap');
+
+*{
+  font-family: "mulish";
+  box-sizing: border-box;
+}
+.title{
+  color: red;
+  font-weight: bold;
+}
+#navi {
+ text-align: center;
+}
+a{
+  font-family: "roboto";
+  text-decoration: none;
+  color: black;
+}
+#about #wrk #rsme #contakt {
+  color: black;
+  font-weight: bold;
+}
+
+
+
+li{
+  display: inline;
+  margin: 5px 5px 5px 5px;
+}
