@@ -31,17 +31,22 @@ li > a {
   text-decoration: none;
   color: white
 }
-li > a :hover{
+li:hover{
   font-weight: bold;
 }
 h2 > a {
   color: white;
   text-decoration: none;
 }
+h2 > a:hover {
+  text-decoration: underline;
+  text-decoration-color: #c4acb3;
+}
 h3, p, th, td,label{
   padding: 25px;
   color: #4c5c64;
 }
+
 #about #wrk #rsme #contakt {
   color: white;
   font-weight: bold;
